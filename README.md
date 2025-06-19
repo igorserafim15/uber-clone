@@ -1,13 +1,19 @@
-# Nome do Projeto
-
-Descrição breve do projeto, o que ele faz e o problema que resolve.
-
----
+# Uber Clone
 
 ## Índice
 - [Sobre o Projeto](#sobre-o-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Tecnologias](#tecnologias)
+- [Requisitos Funcionais](#requisitos-funcionais)
+- [Requisitos Não Funcionais](#requisitos-nao-funcionais)
+- [Regras de Negócio](#regras-de-negocio)
+- [Instalação](#instalacao)
 - [Endpoints](#endpoints)
+
+---
+
+## Sobre o Projeto
+
+Descrição breve do projeto, o que ele faz e o problema que resolve.
 
 ---
 
@@ -55,7 +61,7 @@ git clone https://github.com/seu-usuario/nome-do-projeto.git
 cd nome-do-projeto
 npm install
 npm run dev
-
+```
 
 ## Endpoints
 - Endpoints de Candidato
