@@ -1,3 +1,5 @@
+![Capa do Projeto](./assets/uber-login.png)
+
 # Uber Clone
 
 ## Índice
