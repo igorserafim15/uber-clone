@@ -14,13 +14,16 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model User {
+model Driver {
   id String @id @default(cuid())
 
   name      String
-  email     String @unique
-  google_id String @unique
+  email     String  @unique
+  google_id String  @unique
+  photo_url String?
 
   created_at DateTime @default(now())
   updated_at DateTime @updatedAt
+
+  @@map("drivers")
 }

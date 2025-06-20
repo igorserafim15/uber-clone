@@ -10,3 +10,5 @@ services:
       - POSTGRESQL_USERNAME=admin
       - POSTGRESQL_PASSWORD=admin
       - POSTGRESQL_DATABASE=uber-clone
+
+  
